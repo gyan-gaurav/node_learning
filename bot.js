@@ -4,41 +4,40 @@ const Twit = require('twit');
 
 const config = require('./config');
 const T = new Twit(config);
+const thought = [ "Be happy for this moment. This moment is your life.",
+                  "Because of your smile, you make life more beautiful." ,
+                  "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things." 
+                ]
 
+const stream = T.stream('user');
+stream.on('follow', followed);
 
+function followed(eventMsg){
+    console.log('posting back to follower');
+    const name = event.source.name;
+    const screenName = event.source.screen_name;
+    tweetIt('.@' + screenName + 'Hello!!!!');
+}
 
-setInterval(tweetIt, 1000 * 1)
-tweetIt();
-
-function tweetIt(){
-    let r = Math.floor(Math.random() * 100);
-     const thought = new Array(
-        "Because of your smile, you make life more beautiful.",
-        "Be happy for this moment. This moment is your life.",
-        "Only I can change my life. No one can do it for me."
-     );
-     
-      for (let i = 0;i < thought.length; i++){
-          //Posting on twitter
-        // let tweet = {
-           
-        console.log( ( i + 1 ) + '. ' + thought[i] ) + '</br>' ;
-        
-            // write post content
-            // }; 
-            // T.post('statuses/update', tweet, tweeted);
-        
-            // function tweeted( err, data, response) {
-            //     if (err) {
-            //         console.log("something went wrong!");
-            //     } else {
-            //     console.log("****it worked****");
-            //     }
-            // }
-        // };     
+function tweetIt ( txt ) {
+    let r = Math.floor(Math.random() * 100) ;
+    
+    let tweet = {
+        status : txt      //'new random number post : #' + r //thought[i]           // write post content
     };
+    console.log(tweet);
+    // T.post('statuses/update', tweet, tweeted);
+    function tweeted( err, data, response) {
+    if (err) {
+        console.log("something went wrong!");
+    } else {
+        console.log("****it worked****");
+    }
+    }
+};     
 
-//Search 2 posts having word 'banana'.
+
+//** Search 2 posts having word 'banana'.
 // const param = { 
 //     q: 'banana',   // search term
 //     count: 2 }
@@ -51,4 +50,4 @@ function tweetIt(){
  //       console.log( tweets[i].text );
    // }
     
-  };
+  
