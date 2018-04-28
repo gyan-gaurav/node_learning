@@ -1,16 +1,22 @@
 console.log('!!!!!!!!!!  WORKING   !!!!!!!!!!!!!!!');
 
 const Twit = require('twit');
-
 const config = require('./config');
-
 const T = new Twit(config);
+// const exec = require('child_process').exec;
+// const fs = require('fs');
 
-const exec = require('child_process').exec;
-const fs = require('fs');
-
- tweetIt();
+//  tweetIt();
 // setInterval(tweetIt, 1000* 2)
+const stream = T.stream('user');
+
+stream.on( 'tweet' , tweetEvent);
+
+function tweetEvent(eventMsg){
+    const fs = require('fs');
+    const json = JSON.stringify(eventMsg, null, 2);
+    fs.writeFile("tweet.json", json); 
+}
 
 function tweetIt () {
     processing();
@@ -24,8 +30,8 @@ function tweetIt () {
         T.post( 'media/upload' , { media_data: b64 }, uploaded);
 
         function uploaded(err, data, respose) {
-            var id = data.media_id_string;
-            var tweet = {
+            const id = data.media_id_string;
+            const tweet = {
                 status: 'media post', 
                 media_ids: [id] 
             }

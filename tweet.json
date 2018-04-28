@@ -1,0 +1,369 @@
+{
+  "created_at": "Fri Apr 27 13:24:22 +0000 2018",
+  "id": 989857792025661400,
+  "id_str": "989857792025661442",
+  "text": "RT @Showbiz_IT: 10 amazing pics of @Divyanka_T that capture her post-wedding transformation https://t.co/IcRc6jOJ0K https://t.co/CN0tA72GHX",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19897138,
+    "id_str": "19897138",
+    "name": "India Today",
+    "screen_name": "IndiaToday",
+    "location": "India",
+    "url": "http://indiatoday.in",
+    "description": "Brings you news breaks: Exclusive political, entertainment, sports insight, unbiased-nonaligned Download App: https://goo.gl/YSzDFL",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4768988,
+    "friends_count": 240,
+    "listed_count": 4965,
+    "favourites_count": 4342,
+    "statuses_count": 520838,
+    "created_at": "Mon Feb 02 07:21:54 +0000 2009",
+    "utc_offset": 19800,
+    "time_zone": "New Delhi",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/787569535880531968/3FtQQHyA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/787569535880531968/3FtQQHyA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19897138/1524829709",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Apr 27 13:23:17 +0000 2018",
+    "id": 989857516082417700,
+    "id_str": "989857516082417664",
+    "text": "10 amazing pics of @Divyanka_T that capture her post-wedding transformation https://t.co/IcRc6jOJ0K https://t.co/CN0tA72GHX",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1088334553,
+      "id_str": "1088334553",
+      "name": "India Today Showbiz",
+      "screen_name": "Showbiz_IT",
+      "location": "Delhi, India",
+      "url": "http://indiatoday.intoday.in/movies/",
+      "description": "Entertainment account of India's largest-selling magazine - India Today. Follow us for the latest in Showbiz, gossip, photos of celebrities and much more.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 67090,
+      "friends_count": 193,
+      "listed_count": 220,
+      "favourites_count": 4,
+      "statuses_count": 39580,
+      "created_at": "Mon Jan 14 07:47:53 +0000 2013",
+      "utc_offset": 19800,
+      "time_zone": "New Delhi",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000742295282/c7bff6bf70d00e2f735aa11697cf9095_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000742295282/c7bff6bf70d00e2f735aa11697cf9095_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088334553/1522410886",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/IcRc6jOJ0K",
+          "expanded_url": "https://bit.ly/2HCDBmQ",
+          "display_url": "bit.ly/2HCDBmQ",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Divyanka_T",
+          "name": "Divyanka T Dahiya",
+          "id": 568225177,
+          "id_str": "568225177",
+          "indices": [
+            19,
+            30
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 989857480812380200,
+          "id_str": "989857480812380160",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+          "url": "https://t.co/CN0tA72GHX",
+          "display_url": "pic.twitter.com/CN0tA72GHX",
+          "expanded_url": "https://twitter.com/Showbiz_IT/status/989857516082417664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 647,
+              "h": 363,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 647,
+              "h": 363,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 647,
+              "h": 363,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 989857480812380200,
+          "id_str": "989857480812380160",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+          "url": "https://t.co/CN0tA72GHX",
+          "display_url": "pic.twitter.com/CN0tA72GHX",
+          "expanded_url": "https://twitter.com/Showbiz_IT/status/989857516082417664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 647,
+              "h": 363,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 647,
+              "h": 363,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 647,
+              "h": 363,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/IcRc6jOJ0K",
+        "expanded_url": "https://bit.ly/2HCDBmQ",
+        "display_url": "bit.ly/2HCDBmQ",
+        "indices": [
+          92,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Showbiz_IT",
+        "name": "India Today Showbiz",
+        "id": 1088334553,
+        "id_str": "1088334553",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "Divyanka_T",
+        "name": "Divyanka T Dahiya",
+        "id": 568225177,
+        "id_str": "568225177",
+        "indices": [
+          35,
+          46
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 989857480812380200,
+        "id_str": "989857480812380160",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+        "url": "https://t.co/CN0tA72GHX",
+        "display_url": "pic.twitter.com/CN0tA72GHX",
+        "expanded_url": "https://twitter.com/Showbiz_IT/status/989857516082417664/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 647,
+            "h": 363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 647,
+            "h": 363,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 647,
+            "h": 363,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 989857516082417700,
+        "source_status_id_str": "989857516082417664",
+        "source_user_id": 1088334553,
+        "source_user_id_str": "1088334553"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 989857480812380200,
+        "id_str": "989857480812380160",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DbyuImIVwAA1FWH.jpg",
+        "url": "https://t.co/CN0tA72GHX",
+        "display_url": "pic.twitter.com/CN0tA72GHX",
+        "expanded_url": "https://twitter.com/Showbiz_IT/status/989857516082417664/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 647,
+            "h": 363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 647,
+            "h": 363,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 647,
+            "h": 363,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 989857516082417700,
+        "source_status_id_str": "989857516082417664",
+        "source_user_id": 1088334553,
+        "source_user_id_str": "1088334553"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1524835462944"
+}
